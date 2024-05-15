@@ -137,9 +137,8 @@ img {
 
  }
 
-/*STYLING RESPONSIVE FOR PHONE*/
 
-
+ /*STYLING RESPONSIVE FOR PHONE*/
 @media screen and (max-width: 480px){
 
     .container {
@@ -149,6 +148,7 @@ img {
     .row{
         display: block;
     }
+
     .lessons .col{
         width: 100%;
     }
